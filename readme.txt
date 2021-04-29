@@ -37,7 +37,7 @@ Main Menu
         [1] Local server - copies desired version of committed files into local webserver
 
         [2] Public server - copies desired version of committed files into local webserver and performs fort forwarding, 
-                            this will let you access to your files anyware in the world.
+                            this will let you access your files anyware in the world.
                             [*] Requires miniupnpc (if you don't have it installed, this program will automatically install it)
                             [*] Opens port 80, it will automatically close in about 10-20 hours.
 
