@@ -6,7 +6,7 @@ Creater: Sam Goto
     g++ -std=c++17 miniGit.cpp driver.cpp
 
 [*] For online server, it requires apache2/miniupnpc installed (For miniupnpc, you have an option to install in the program)
-
+[*] Works best on linux machine
 
 Main Menu
 
