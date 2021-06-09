@@ -1,6 +1,7 @@
 MiniGit
 Creater: Sam Goto
 
+Makes backups of your local files and you will be able to restore your files from your backups. You can also start a webserver to store your backups. 
 
 [*] Requires c++17 to compile
     g++ -std=c++17 miniGit.cpp driver.cpp
